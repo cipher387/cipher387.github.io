@@ -1,0 +1,27 @@
+.telegram-follow-button {
+    color: #fff;
+    background: #1e96c8;
+    padding: 3px 7px;
+    font-weight: 500;
+    font-size: 18px;
+    border-radius: 4px;
+    vertical-align: middle;
+    text-align: center;
+}
+.telegram-follow-button:hover {
+    background: #167ba5;
+    color: #fff;
+}
+.telegram-follow-button img{
+    width: 20px;
+    vertical-align: middle;
+}
+.twitter-follow-button {
+    padding: 3px 7px;
+    font-weight: 500;
+    font-size: 18px;
+    border-radius: 4px;
+    vertical-align: middle;
+    text-align: center;
+  
+}
