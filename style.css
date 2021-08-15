@@ -16,7 +16,9 @@
     width: 20px;
     vertical-align: middle;
 }
-.twitter-follow-button {
+.twitter-follow-button-2 {
+    color: #fff;
+    background: #1DA1F2;
     padding: 3px 7px;
     font-weight: 500;
     font-size: 18px;
