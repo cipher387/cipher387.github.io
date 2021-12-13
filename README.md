@@ -14,7 +14,7 @@ Revue — https://www.getrevue.co/profile/cyb_detective
 
 Github — https://github.com/cipher387
 
-Discord — every week I post a fresh invite on Twitter. You can find it by searching for "discord from:cyb_detective
+Discord — every week I post a fresh invite on Twitter. You can find it by searching for "discord from:cyb_detective"
 
 <hr>
 
